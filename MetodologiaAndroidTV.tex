@@ -1,5 +1,7 @@
 \documentclass{article}
+\usepackage[spanish]{babel}
 \usepackage{graphicx} % Required for inserting images
+
 
 \title{\textbf{METODOLOGIA PARA EL DESARROLLO DE TRANSICIONES VISUALES SECUENCIALES EN ANDROID TV}}
 \author{Miguel Angel Neyoy Ceniceros$^1$, Carvajal lizarraga Jesus Rodolfo$^1$, Vázquez García Juan Daniel$^1$, Alcaraz Duran Modesto Alonso$^1$}
@@ -7,10 +9,19 @@
 \begin{document}
 
 \maketitle
+\renewcommand{\abstractname}{Resumen}
+\section*{Resumen}
 
-\begin{abstract}
-  Esta investigación establece una metodología estructurada para el desarrollo de aplicaciones con transiciones visuales secuenciales en el entorno de Android TV. El trabajo responde a la fragmentación del mercado de Smart TV y la necesidad de enfoques de desarrollo que aseguren rendimiento y compatibilidad. La metodología propuesta emplea Kotlin y el framework Jetpack Compose for TV, los cuales son recomendados por Google, y se validan mediante un prototipo de carrusel de imágenes. La implementación demostró la importancia de la gestión del estado reactivo (remember, mutableStateOf) para mantener la estabilidad de las transiciones visuales. Se confirmó la efectividad de la carga asíncrona de recursos remotos (librería Coil) para garantizar un flujo visual continuo, evitando bloqueos del hilo principal. Finalmente, el uso del operador módulo en la lógica de navegación garantiza secuencias cíclicas y estables. Esta metodología resultante proporciona una guía replicable para construir aplicaciones fluidas y coherentes en pantallas de gran formato.
-\end{abstract}
+Esta investigación establece una metodología estructurada para el desarrollo de aplicaciones con transiciones visuales secuenciales en el entorno de Android TV. El trabajo responde a la fragmentación del mercado de Smart TV y la necesidad de enfoques de desarrollo que aseguren rendimiento y compatibilidad. La metodología propuesta emplea Kotlin y el framework Jetpack Compose for TV, los cuales son recomendados por Google, y se validan mediante un prototipo de carrusel de imágenes. La implementación demostró la importancia de la gestión del estado reactivo (remember, mutableStateOf) para mantener la estabilidad de las transiciones visuales. Se confirmó la efectividad de la carga asíncrona de recursos remotos (librería Coil) para garantizar un flujo visual continuo, evitando bloqueos del hilo principal. Finalmente, el uso del operador módulo en la lógica de navegación garantiza secuencias cíclicas y estables. Esta metodología resultante proporciona una guía replicable para construir aplicaciones fluidas y coherentes en pantallas de gran formato.
+
+
+    {\small \textit{Palabras clave: Android TV, Jetpack Compose, Kotlin, Smart TV.}}
+
+
+\section*{Abstrac}
+This research establishes a structured methodology for developing applications with sequential visual transitions within the Android TV environment. The work addresses the fragmentation of the Smart TV market and the need for development approaches that ensure performance and compatibility. The proposed methodology employs Kotlin and the Jetpack Compose for TV framework, which are recommended by Google, and is validated through an image carousel prototype. The implementation demonstrated the importance of reactive state management (remember, mutableStateOf) in maintaining the stability of visual transitions. The effectiveness of asynchronous loading of remote resources (Coil library) was confirmed to ensure a continuous visual flow, avoiding main thread blocking. Finally, the use of the modulo operator in the navigation logic guarantees cyclic and stable sequences. This resulting methodology provides a replicable guide for building fluid and consistent applications on large-format screens.
+
+    {\small \textit{Keywords: Android TV, Jetpack Compose, Kotlin, Smart TV.}}
 
 \section{Introduction}
 
