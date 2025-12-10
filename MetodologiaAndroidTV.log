@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.2)  8 DEC 2025 10:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.2)  10 DEC 2025 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,51 +292,69 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+(C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen184
+\ar@mcellbox=\box57
+\extrarowheight=\dimen185
+\NC@list=\toks27
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box58
+)
+\TX@col@width=\dimen186
+\TX@old@table=\dimen187
+\TX@old@col=\dimen188
+\TX@target=\dimen189
+\TX@delta=\dimen190
+\TX@cols=\count305
+\TX@ftn=\toks28
+)
 (C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
-) (MetodologiaAndroidTV.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 8.
-)
+\l__color_backend_stack_int=\count306
+) (MetodologiaAndroidTV.aux)
 \openout1 = `MetodologiaAndroidTV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 -- Lines per column: 56 (exact).
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 11.
 
 (C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count306
-\scratchdimen=\dimen184
-\scratchbox=\box57
-\nofMPsegments=\count307
-\nofMParguments=\count308
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count309
-\MPscratchDim=\dimen185
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count307
+\scratchdimen=\dimen191
+\scratchbox=\box59
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen192
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
@@ -349,6 +367,49 @@ cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) [1{C:/Users/Miguel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/User
 s/Miguel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+(C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\Miguel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+
+c:/Users/Miguel/My Drive/GlobalCarrera/Semestre 7/redaccionDeTextosCientificos/
+PaperVersionLatex/MetodologiaAndroidTV.tex:98: LaTeX Error: Unknown float optio
+n `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \begin{figure}[H]
+                      
+Option `H' ignored and `p' used.
+
+<imagenes/figura1.png, id=9, 452.3445pt x 250.317pt>
+File: imagenes/figura1.png Graphic file (type png)
+<use imagenes/figura1.png>
+Package pdftex.def Info: imagenes/figura1.png  used on input line 100.
+(pdftex.def)             Requested size: 412.80157pt x 228.44958pt.
+
+LaTeX Warning: Reference `fig:configuracion' on page 2 undefined on input line 
+104.
+
+
+c:/Users/Miguel/My Drive/GlobalCarrera/Semestre 7/redaccionDeTextosCientificos/
+PaperVersionLatex/MetodologiaAndroidTV.tex:106: LaTeX Error: Unknown float opti
+on `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+<imagenes/figura2.png, id=11, 443.40656pt x 85.06781pt>
+File: imagenes/figura2.png Graphic file (type png)
+<use imagenes/figura2.png>
+Package pdftex.def Info: imagenes/figura2.png  used on input line 108.
+(pdftex.def)             Requested size: 412.80157pt x 79.2005pt.
+[2]
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -360,7 +421,8 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2] (MetodologiaAndroidTV.aux
+[3] [4 <./imagenes/figura1.png> <./imagenes/figura2.png>]
+(MetodologiaAndroidTV.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -368,22 +430,30 @@ LaTeX Info: Redefining \% on input line 8.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5002 strings out of 467871
- 82666 string characters out of 5417892
- 506012 words of memory out of 5000000
- 33860 multiletter control sequences out of 15000+600000
- 657070 words of font info for 88 fonts, out of 8000000 for 9000
+ 5216 strings out of 467871
+ 86206 string characters out of 5417892
+ 514557 words of memory out of 5000000
+ 34045 multiletter control sequences out of 15000+600000
+ 664742 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,390b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,65p,1225b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.p
-fb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
-pfb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on MetodologiaAndroidTV.pdf (2 pages, 48909 bytes).
+fb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a
+.pfb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8
+a.pfb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on MetodologiaAndroidTV.pdf (4 pages, 231550 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
